@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { AnimatedBackground } from './components/AnimatedBackground';
+import { AnimatedBackground } from './components/AnimatedBackground.tsx';
 import { WelcomeScreen } from './components/screens/WelcomeScreen';
 import { SettingsScreen } from './components/screens/SettingsScreen';
 import { WhitelistScreen } from './components/screens/WhitelistScreen';
