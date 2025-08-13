@@ -1,5 +1,4 @@
 import { useState } from 'react';
-import { motion, AnimatePresence } from 'framer-motion';
 import { AnimatedBackground } from './components/AnimatedBackground';
 import { WelcomeScreen } from './components/screens/WelcomeScreen';
 import { SettingsScreen } from './components/screens/SettingsScreen';
